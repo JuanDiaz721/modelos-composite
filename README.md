@@ -1,3 +1,15 @@
+# 📐 Modelos de Programación 020-85
+
+**Universidad Distrital Francisco José de Caldas**
+
+# 👥 Integrantes
+
+	-Nicolás Martínez Pineda
+	-Juan Pablo Diaz Ricaurte
+	-Miguel Angel Hernandez Medina
+
+---
+
 # Visualizador de Árboles de Expresiones Aritméticas 🌳🧮
 
 Este proyecto es una implementación interactiva en Python que analiza expresiones matemáticas en texto, construye un Árbol de Sintaxis Abstracta (AST) y lo resuelve. 
